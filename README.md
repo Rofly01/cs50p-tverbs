@@ -9,6 +9,8 @@
 
 
 ## ABOUT
+Tverbs, my final project of CS50P!
+
 My project was created with the aim of training irregular verbs, so I first started getting the verbs from the json file in my github repository using [requests](https://requests.readthedocs.io/en/latest/), and then print the list of verbs using [pandas](https://pandas.pydata.org) for check everything is ok, after I create the base of application using [tkinter](https://docs.python.org/3/library/tkinter.html), setting the resolution, minimum size, and icon.
 
 Now I just need the frames, so in the frame.py file, I created the frames in class with their widgets and places, then I leave the initial frame starded and others not, to be able to open the other frames with the buttons, after that it was just program what buttons do.
